@@ -1,2 +1,3 @@
 # banjarese-language-dataset
 The Banjar language is an Austronesian language spoken by the Banjar people in South Kalimantan and nearby regions of Indonesia. It developed from Malay and is used in daily communication, culture, and traditions, serving as an important marker of Banjar identity.
+This dataset contains textual data in the Banjar language collected to support language preservation and machine translation development. It includes words, phrases, and sentences commonly used in daily communication and cultural contexts. The dataset aims to help document the Banjar language and improve automatic translation systems while supporting long-term linguistic preservation.
